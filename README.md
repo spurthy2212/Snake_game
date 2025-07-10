@@ -36,7 +36,7 @@ This is a simple **Snake Game** developed using **Python** and the **Pygame** li
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/snake-game-pygame.git
+git clone https://github.com/spurthy2212/snake-game-pygame.git
 Install dependencies:
 
 bash
